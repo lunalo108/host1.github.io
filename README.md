@@ -1,2 +1,2 @@
-# host1
- 
+# htmlacademy.github.io
+Мой первый хостинг
